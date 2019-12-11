@@ -44,3 +44,6 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 	formId: "4ddbd4b2-9ce5-41c1-b910-2fa214342854"
 });
 </script> 
+
+{{< figure src="/images/thomas-hans.jpeg" class="full" caption="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores." >}}
+
