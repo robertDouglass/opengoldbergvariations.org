@@ -2,6 +2,7 @@
 title: "Last night when everyone else in the household went to bed, I stayed up to listen to this with a copy of the public domain score (from MuseScore.com) in front of me."
 date: 2012-06-02
 draft: false
+categories = ["Review"]
 ---
 *Reviewed by [LugerLA](http://lugerpitt.blogspot.com/2012/06/new-recording-of-goldberg-variations.html), June 2, 2012.*
 

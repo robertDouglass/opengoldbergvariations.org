@@ -2,6 +2,7 @@
 title: "Turn off the cellphone, dim the lights and get a cold drink. Enough chitchat, time for some Bach!"
 date: 2012-07-29
 draft: false
+categories = ["Review"]
 ---
 *Reviewed by [Landscape Windscreen](https://www.youtube.com/user/LandscapeWindscreen) on July 29, 2012*
 

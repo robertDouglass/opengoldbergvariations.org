@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c871231-8784-43ae-b1c4-18328ed251a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/listen/download-the-goldberg-variations-free.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/listen/download-the-goldberg-variations-free.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/listen/goldberg-variations-on-apple-music.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/listen/goldberg-variations-on-apple-music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/listen/goldberg-variations-on-deezer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/listen/goldberg-variations-on-deezer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/listen/goldberg-variations-on-spotify.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/listen/goldberg-variations-on-spotify.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/news/braille-edition-of-the-open-goldberg-variations.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/news/braille-edition-of-the-open-goldberg-variations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/news/recording-the-goldberg-variations-at-the-teldex-studio.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/news/recording-the-goldberg-variations-at-the-teldex-studio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/news/score-following-with-wisconsin-public-radio-a-success.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/news/score-following-with-wisconsin-public-radio-a-success.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/case-bachs-goldberg-variations-it-impossible-avoid-long-shadow-still-cast-glenn-goulds-1955-debut.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/case-bachs-goldberg-variations-it-impossible-avoid-long-shadow-still-cast-glenn-goulds-1955-debut.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/each-voice-speaks-its-own-truth-and-together-they-blend-contemplation.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/each-voice-speaks-its-own-truth-and-together-they-blend-contemplation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/kimiko-ishizaka-does-great-job-bring-bachs-composition-life.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/kimiko-ishizaka-does-great-job-bring-bachs-composition-life.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/last-night-when-everyone-else-household-went-bed-i-stayed-listen-copy-public-domain-score.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/last-night-when-everyone-else-household-went-bed-i-stayed-listen-copy-public-domain-score.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/ms-ishizaka-has-produced-crisp-informed-rendition-variations.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/ms-ishizaka-has-produced-crisp-informed-rendition-variations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/opening-aria-it-obvious-going-be-special-recording.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/opening-aria-it-obvious-going-be-special-recording.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/pianists-recording-very-different-most-ive-listened-over-years.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/pianists-recording-very-different-most-ive-listened-over-years.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/sit-back-and-realize-how-much-better-music-sounds-once-you-know-you-can-share-it-your-friends.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/sit-back-and-realize-how-much-better-music-sounds-once-you-know-you-can-share-it-your-friends.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/talented-and-committed-people-have-done-their-very-best-make-best-possible-recording-truly-great.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/talented-and-committed-people-have-done-their-very-best-make-best-possible-recording-truly-great.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/review/very-honest-and-lucid-recording-which-rather-showcases-impressive-b-sendorfer-imperial-290-ceus.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/review/very-honest-and-lucid-recording-which-rather-showcases-impressive-b-sendorfer-imperial-290-ceus.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +55,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/static/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/listen" />
       <recent name="$PROJECT_DIR$/layouts/_default" />
       <recent name="$PROJECT_DIR$/layouts/shortcodes" />
       <recent name="$PROJECT_DIR$/layouts" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/static/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,6 +95,7 @@
       <updated>1575841888180</updated>
       <workItem from="1575841889264" duration="1330000" />
       <workItem from="1575892318490" duration="19788000" />
+      <workItem from="1576090169568" duration="1202000" />
     </task>
     <servers />
   </component>

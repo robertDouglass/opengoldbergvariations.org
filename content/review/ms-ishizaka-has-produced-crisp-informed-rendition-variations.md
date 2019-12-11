@@ -2,6 +2,7 @@
 title: "Ms. Ishizaka has produced a crisp, informed rendition of the Variations. "
 date: 2012-05-31
 draft: false
+categories = ["Review"]
 ---
 *Reviewed by The Owl Underground, May 31, 2012.*
 

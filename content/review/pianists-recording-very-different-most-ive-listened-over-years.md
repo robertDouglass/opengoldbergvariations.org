@@ -2,6 +2,7 @@
 title: "This pianist's recording is very different from most that I've listened to over the years"
 date: 2012-09-01
 draft: false
+categories = ["Review"]
 ---
 >"She has the fleet fingers to speed through the virtuoso variations with compelling clarity and the sensitivity to probe the dramatic potential of the slower, more profound numbers, pleasurably aided by her consistently lovely tone."
 

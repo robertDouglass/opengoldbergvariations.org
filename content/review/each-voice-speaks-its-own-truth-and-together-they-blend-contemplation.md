@@ -2,6 +2,7 @@
 title: "Each voice speaks its own truth, and together they blend in contemplation."
 date: 2012-06-09
 draft: false
+categories = ["Review"]
 ---
 *Reviewed by Bob Jones, June 9, 2012*
 

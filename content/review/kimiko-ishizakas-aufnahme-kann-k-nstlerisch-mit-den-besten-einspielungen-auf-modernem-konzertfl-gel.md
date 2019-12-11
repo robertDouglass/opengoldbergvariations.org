@@ -2,6 +2,7 @@
 title: "Kimiko Ishizakas Aufnahme kann künstlerisch mit den besten Einspielungen auf modernem Konzertflügel mithalten"
 date: 2012-07-23
 draft: false
+categories = ["Review"]
 ---
 *Reviewed by Sal Pichireddu on July 23, 2012 for www.about-music.de*
 

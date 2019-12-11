@@ -2,6 +2,7 @@
 title: "Recording the Goldberg Variations at the Teldex Studio"
 date: 2012-03-02
 draft: false
+categories = ["Recording", "Production"]
 ---
 {{< figure src="/images/P1030940-1600x900.JPG" class="full" caption="Kimiko Ishizaka and Anne-Marie Sylvestre in the Teldex Studio" >}}
 
