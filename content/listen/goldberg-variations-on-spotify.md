@@ -1,6 +1,6 @@
 ---
-title: "Goldberg Variations on Spotify"
-date: 2019-12-10T13:07:02+01:00
+title: "Goldberg Variations on Spotify xxx"
+date: 2019-11-10
 draft: false
 weight: -200
 categories = ["Streaming", "Spotify"]
