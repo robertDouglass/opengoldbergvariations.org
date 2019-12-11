@@ -2,7 +2,6 @@
 title: "A very honest and lucid recording which rather showcases the impressive Bösendorfer Imperial 290 CEUS"
 date: 2012-05-28
 draft: false
-categories = ["Review"]
 ---
 Review by Andrew Olsen, May 28, 2012.
 

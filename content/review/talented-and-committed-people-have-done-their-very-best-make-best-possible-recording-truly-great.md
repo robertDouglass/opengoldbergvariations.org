@@ -2,7 +2,6 @@
 title: "Talented and committed people have done their very best to make the best possible recording of a truly great piece of music - and then give it away for free"
 date: 2012-05-28
 draft: false
-categories = ["Review"]
 ---
 *Review by [Catching the Waves](https://soundthefreetrumpet.typepad.com/catching_the_waves/2012/05/the-tip-of-the-goldberg.html) on May 28, 2012*
 

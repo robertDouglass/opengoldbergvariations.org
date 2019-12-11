@@ -3,7 +3,9 @@ title: "Goldberg Variations on Apple Music"
 date: 2019-12-10T13:24:31+01:00
 draft: false
 weight: 100
-categories = ["Streaming", "Apple Music"]
+categories:
+  - Streaming
+  - Apple Music
 ---
 The [Open Goldberg Variations](https://geo.music.apple.com/us/album/bach-goldberg-variations-bwv-988-open-goldberg-variations/1162185845?itsct=music_box&itscg=30200
 ) are available on Apple Music.

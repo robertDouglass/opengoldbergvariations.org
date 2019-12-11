@@ -2,7 +2,6 @@
 title: "La idea se llevó a cabo y el resultado es magnífico"
 date: 2012-07-18
 draft: false
-categories = ["Review"]
 ---
 *Reviewed by Pablo Tornielli, July 18, 2012.*
 

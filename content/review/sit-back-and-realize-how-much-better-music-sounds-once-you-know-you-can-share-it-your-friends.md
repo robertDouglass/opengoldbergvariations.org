@@ -2,7 +2,6 @@
 title: "Sit back, and realize how much better this music sounds once you know that you can share it with your friends."
 date: 2012-05-19
 draft: false
-categories = ["Review"]
 ---
 *Reviewed by [Craig Maloney](http://decafbad.net/2012/05/29/variations-of-goldberg-variations/) on May 29, 2012.*
 
