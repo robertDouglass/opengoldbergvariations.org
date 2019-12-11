@@ -1,5 +1,5 @@
 ---
-title: "Goldberg Variations on Spotify xxx"
+title: "Goldberg Variations on Spotify"
 date: 2019-11-10
 draft: false
 weight: -200
