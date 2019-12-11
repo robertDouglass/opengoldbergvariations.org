@@ -1,4 +1,4 @@
-baseurl = "https://www.example.org/"
+baseurl = "/"
 title = "The Open Goldberg Variations"
 canonifyurls = true
 theme = "kiera"
