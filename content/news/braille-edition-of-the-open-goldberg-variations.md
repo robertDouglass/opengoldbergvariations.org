@@ -3,7 +3,7 @@ title: "Braille Edition of the Open Goldberg Variations"
 date: 2014-03-23
 draft: false
 ---
-{{< figure src="/images/ogv-braille-photo.jpg" class="full" caption="Photo of the Open Goldberg Variations Aria on embossed paper." >}}
+{{< figure src="/images/ogv-braille-photo-1600x.jpg" class="full" caption="Photo of the Open Goldberg Variations Aria on embossed paper." >}}
 
 MuseScore and the Open Goldberg Project are happy to announce the immediate availability of the Open Goldberg Variations score in braille format. This score will allow blind musicians to read Bach's Goldberg Variations on braille terminal devices, or to print the score onto paper using braille embossers. We were able to make this score only with the help of the [Golden Chord Braille Music Transcription Service](http://www.golden-chord.com/about.php), and with the support of over 900 backers of our recent [Open Well-Tempered Clavier](https://www.kickstarter.com/projects/opengoldberg/open-well-tempered-clavier-bah-to-bach) project. 
 
