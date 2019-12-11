@@ -15,6 +15,7 @@ pygmentsCodeFences = true
     images = ["/images/open-goldberg-variations.png"] #This is used for opengraph/twitter cards.
     favicon = "/favicon/favicon.ico"
     title = "The Open Goldberg Variations"
+    url = "https://opengoldbergvariations.org"
 
 [menu]
 
