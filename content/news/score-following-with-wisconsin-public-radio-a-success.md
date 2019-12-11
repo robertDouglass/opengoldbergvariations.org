@@ -10,5 +10,5 @@ This event was uniquely possible through the combination of a MuseScore edition 
 
 WPR promoted the event heavily, including a 30 minute interview with Robert Douglass (Director, Open Goldberg) on "The Midday", a program hosted by Norman Gilliland. Here are photos of Lori Skelton, Jennifer Dargan, Robert Douglass, and Laura Zimmerman.
 
-![The WPR team](/images/P1040859.JPG)
-![Robert Douglass in the WPR studio](/images/P1040853.JPG)
+![The WPR team](/images/P1040859-800x.JPG)
+![Robert Douglass in the WPR studio](/images/P1040853-800x.JPG)
