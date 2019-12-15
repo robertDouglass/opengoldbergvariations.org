@@ -1,6 +1,9 @@
 "https://{default}/":
   type: upstream
   upstream: "hugo:http"
+  cache:
+    enabled: true
+    default_ttl: 3600
   redirects:
     paths:
       '/node/157':
