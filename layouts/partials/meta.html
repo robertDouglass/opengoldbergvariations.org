@@ -5,6 +5,8 @@
   {{- with .OutputFormats.Get "rss" -}}
   	{{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
   {{- end -}}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
   {{ hugo.Generator -}}
 
 <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
