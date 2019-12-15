@@ -12,4 +12,4 @@ rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 ls
 cd public
 ls
-sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml
+sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml > sitemap.xml
