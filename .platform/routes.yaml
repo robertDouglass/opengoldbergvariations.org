@@ -10,7 +10,7 @@
         to: 'https://kimiko-piano.com'
         code: 301
       '/goldberg-variations-musescore-edition':
-        to: 'https://musescore.org/en/node/9622'
+        to: 'https://musescore.com/opengoldberg/goldberg-variations'
         code: 301
 
 
