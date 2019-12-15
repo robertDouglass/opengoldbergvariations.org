@@ -8,3 +8,6 @@ tar xvzf hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 
 ./hugo
+
+cd public
+sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml
