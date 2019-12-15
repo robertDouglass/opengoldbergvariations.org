@@ -6,7 +6,12 @@
       '/node/157':
         to: '/news/boesendorfer-sponsors-open-goldberg-variations/'
         code: 301
-
+      '/kimiko-ishizaka-open-goldberg-variations-pianist':
+        to: 'https://kimiko-piano.com'
+        code: 301
+      '/goldberg-variations-musescore-edition':
+        to: 'https://musescore.org/en/node/9622'
+        code: 301
 
 
 "https://www.{default}/":
