@@ -1,6 +1,12 @@
 "https://{default}/":
   type: upstream
   upstream: "hugo:http"
+  redirects:
+    paths:
+      '/node/157':
+        to: '/news/boesendorfer-sponsors-open-goldberg-variations/'
+        code: 301
+
 
 
 "https://www.{default}/":
