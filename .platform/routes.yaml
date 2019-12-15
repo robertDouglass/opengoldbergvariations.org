@@ -3,7 +3,7 @@
   upstream: "hugo:http"
   cache:
     enabled: true
-    default_ttl: 3600
+    default_ttl: 4000
   redirects:
     paths:
       '/node/157':
