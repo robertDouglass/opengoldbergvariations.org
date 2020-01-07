@@ -15,7 +15,9 @@
       '/goldberg-variations-musescore-edition':
         to: 'https://musescore.com/opengoldberg/goldberg-variations'
         code: 301
-
+      '/here-come-mashups-and-visualizations':	
+        to: '/'
+        code: 301
 
 "https://www.{default}/":
   type: redirect
