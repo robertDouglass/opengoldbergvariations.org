@@ -15,8 +15,13 @@
       '/goldberg-variations-musescore-edition':
         to: 'https://musescore.com/opengoldberg/goldberg-variations'
         code: 301
+<<<<<<< HEAD
       '/here-come-mashups-and-visualizations':	
         to: '/'
+=======
+      '/node/191':
+        to: 'https://opengoldbergvariations.org'
+>>>>>>> 977e3444d0e73e08de48108a6c1883c6f9b9a6ce
         code: 301
 
 "https://www.{default}/":
