@@ -1,7 +1,7 @@
 ---
 title: "Maurice (1987)"
 date: 2020-09-24
-draft: true
+draft: false
 ---
 
 The Aria from Bach's Goldberg Variations is played by during the trial of Lord Risley in Maurice (1987). 
