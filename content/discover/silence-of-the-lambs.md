@@ -16,8 +16,8 @@ Hannibal Lecter's most famous quote, "Ready when you are, Sergeant Pembry", is d
 
 Watch and listen to the "Aria" from this scene at the beginning of the Open Goldberg Variations video.
 
-<iframe width="800"  height="600" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800"  height="100%" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 At the end of the scene, Hannibal is listening to Variation 7.
 
-<iframe width="800"  height="600" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=922" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800"  height="100%" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=922" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
