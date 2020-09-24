@@ -4,13 +4,15 @@
 
     {{ $baseurl := .Site.BaseURL }}
 
+    {{ .Content }}
+
     {{ range (.Paginate (.Data.Pages.GroupByDate "2006")).PageGroups  }}
 
     <ul>
         {{ range .Pages.ByWeight }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-            {{ .Content }}
+            {{ .Summary }}
         </li>
         {{ end }}
     </ul>
