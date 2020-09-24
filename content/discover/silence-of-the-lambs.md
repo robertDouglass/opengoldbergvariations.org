@@ -7,7 +7,7 @@ draft: false
 ## Ready when you are, Sergeant Pembry
 
 
-{{< figure src="/static/images/hannibal-lecter-silence-of-the-lambs-goldberg-variations-scene-800.jpeg" class="full" caption="Hannibal Lecter meditating to the Aria from Bach's Goldberg Variations" >}}
+{{< figure src="/static/images/hannibal-lecter-silence-of-the-lambs-goldberg-variations-scene-800.jpg" class="full" caption="Hannibal Lecter meditating to the Aria from Bach's Goldberg Variations" >}}
 
 ## Mind the drawings, please.
 
