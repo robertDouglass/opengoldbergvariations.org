@@ -1,5 +1,5 @@
 ---
-title: "Solars (2002) and the Goldberg Variations"
+title: "Solaris (2002) and the Goldberg Variations"
 date: 2020-09-24
 draft: false
 ---
@@ -12,7 +12,7 @@ The 26th piece from Bach's Goldberg Variations,  Variation 25 "The Black Pearl",
 
 ## How long do you think you can go without sleep?
 
-Of course, Kelvin doesn't yet know what's about to happen to him in his sleep.
+Of course, Kelvin doesn't yet know what's about to happen to him in his sleep. He hasn't yet been visited by Rheya.
 
 ## Well, when you do go to sleep, I find I sleep much better with the door locked.
 
