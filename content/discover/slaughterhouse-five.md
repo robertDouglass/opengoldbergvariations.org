@@ -1,23 +1,21 @@
 ---
 title: "Slaughterhouse-Five (1972)"
 date: 2020-09-24
-draft: true
+draft: false
 ---
 
-The second piece from Bach's Goldberg Variations, the Variation 1, is played by Hana (Juliette Binoche) in a war-destroyed home on a broken piano. 
+The 26th piece from Bach's Goldberg Variations,  Variation 25 "The Black Pearl", is heard as we see scenes of Dresden burning during World War II. 
 
-## Maybe you're safe as long as you only play Bach
+## Ihr Schweine, ihr verfluchten Schweine
 
-{{< figure src="/images/the-english-patient-goldberg-variations-800.jpg" class="full" caption="The English Patient: Hana plays Bach's Goldberg Variations" >}}
+{{< figure src="/images/slaughterhouse-five-goldberg-variations-800.jpg" class="full" caption="Slaughterhouse-Five: " >}}
 
-Hanna is playing on a broken piano when an Indian Sikh appears to warn her of possible mines, left behind by the Germans. Hanna jokes with him "Maybe you're safe as long as you only play Bach", reasoning that the mine would not go off if Germanic music were played.
+"You pigs! You cursed pigs!"
 
-## I'll probably marry him
+This is what a very young German soldier screams at the American soldiers, including Billy Pilgrim, in response to seeing the beautiful city of Dresden burning following the devastating bombardment. 
 
-Later, Hanna tells the English Patient that she'll probably marry that Indian Sikh, because her mother always told her that she would summon her future husband by playing the piano.
+Listen to Variation 25, "The Black Pearl", from Bach's Goldberg Variations, in the video below, played on the piano.
 
-Listen to Variation 1, from Bach's Goldberg Variations, in the video below.
-
-<iframe width="640" height="385" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=300" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=3581" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
