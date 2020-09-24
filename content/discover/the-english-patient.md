@@ -18,5 +18,6 @@ Later, Hanna tells the English Patient that she'll probably marry that Indian Si
 
 Listen to Variation 1, from Bach's Goldberg Variations, in the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15ezpwCHtJs?start=300" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/15ezpwCHtJs?start=300" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+
 
