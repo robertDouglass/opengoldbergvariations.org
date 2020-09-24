@@ -12,7 +12,7 @@
         {{ range .Pages.ByWeight }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-            <p>{{ .Summary }}</p>
+            <p>{{ .Summary }} &hellip; <em><a href="{{ .Permalink }}">Read more</a></em></p>
         </li>
         {{ end }}
     </ul>
