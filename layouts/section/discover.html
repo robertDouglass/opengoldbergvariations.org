@@ -4,8 +4,6 @@
 
     {{ $baseurl := .Site.BaseURL }}
 
-    {{ .Content }}
-
     {{ range (.Paginate (.Data.Pages.GroupByDate "2006")).PageGroups  }}
 
     <ul>
