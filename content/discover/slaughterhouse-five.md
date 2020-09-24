@@ -8,7 +8,7 @@ The 26th piece from Bach's Goldberg Variations,  Variation 25 "The Black Pearl",
 
 ## Ihr Schweine, ihr verfluchten Schweine
 
-{{< figure src="/images/slaughterhouse-five-goldberg-variations-800.jpg" class="full" caption="Slaughterhouse-Five: " >}}
+{{< figure src="/images/slaughterhouse-five-goldberg-variations-800.jpg" class="full" caption="Slaughterhouse-Five: Dresden burning after bombardment" >}}
 
 "You pigs! You cursed pigs!"
 
