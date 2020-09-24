@@ -10,7 +10,7 @@ The second piece from Bach's Goldberg Variations, the Variation 1, is played by 
 
 {{< figure src="/images/the-english-patient-goldberg-variations-800.jpg" class="full" caption="The English Patient: Hana plays Bach's Goldberg Variations" >}}
 
-Hanna is playing on a broken piano when an Indian Sikh appears to warn her of possible mines, left behind by the Germans. Hanna jokes with him "Maybe you're safe as long as you only play Bach", jokingly reasoning that the mine would not go off if Germanic music were played.
+Hanna is playing on a broken piano when an Indian Sikh appears to warn her of possible mines, left behind by the Germans. Hanna jokes with him "Maybe you're safe as long as you only play Bach", reasoning that the mine would not go off if Germanic music were played.
 
 ## I'll probably marry him
 
@@ -18,5 +18,5 @@ Later, Hanna tells the English Patient that she'll probably marry that Indian Si
 
 Listen to Variation 1, from Bach's Goldberg Variations, in the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15ezpwCHtJs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15ezpwCHtJs?t=300" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
