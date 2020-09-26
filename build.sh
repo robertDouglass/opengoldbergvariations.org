@@ -12,6 +12,7 @@ rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
 mv custom_404.php public/
 
 cd public
+rm 404.html
 sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml > sitemap2.xml
 rm sitemap.xml
 mv sitemap2.xml sitemap.xml
