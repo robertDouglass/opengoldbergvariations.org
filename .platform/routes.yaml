@@ -174,15 +174,6 @@
       '/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel':
         to: '{default}/review/'
         code: 301
-      '/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition_0.lbf':
-        to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
-        code: 301
-      '/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition_0.txt':
-        to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
-        code: 301
-      '/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition.brf':
-        to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
-        code: 301
       '/opening-goldberg':
         to: '{default}'
         code: 301
