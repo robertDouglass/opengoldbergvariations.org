@@ -37,23 +37,27 @@ url = "https://opengoldbergvariations.org"
 
   [[menu.main]]
     name = "Reviews"
+    identifier = "Reviews"
     url = "/review/"
     weight = -110
 
   [[menu.main]]
     name = "News"
+    identifier = "News"
     url = "/news/"
     weight = -100
 
   [[menu.main]]
     name = "Discover"
+    identifier = "Discover"
     url = "/discover/"
     weight = -90
 
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = -90
+#  [[menu.main]]
+#    name = "Contact"
+#    identifier = "Contact"
+#    url = "/contact"
+#    weight = -90
 
   [[menu.main]]
     name = "Home"
