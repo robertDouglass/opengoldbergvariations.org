@@ -26,6 +26,28 @@
       '/download':
         to: '{default}/listen/'
         code: 301
+      '/node':
+        to: '{default}'
+        code: 301
+      '/media-gallery':
+        to: '{default}'
+        code: 301
+      '/blog':
+        to: '{default}'
+        code: 301
+      '/freeing-goldberg-variations':
+        to: '{default}'
+        code: 301  
+      '/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico':
+        to: '{default}/review/'
+        code: 301  
+      '/overwhelming-positive-response-release-open-goldberg-variations':
+        to: '{default}'
+        code: 301  
+      '/complete-series-fractal-landscapes-open-goldberg-variations-finished':
+        to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
+        code: 301  
+
 
 
 "https://www.{default}/":
