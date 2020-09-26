@@ -4,7 +4,7 @@
 name: 'hugo'
 
 # The type key specifies the language and version for your application.
-type: golang:1.13
+type: php:7.4
 
 # The hooks that will be triggered when the package is deployed.
 hooks:
@@ -26,3 +26,4 @@ web:
       scripts: false
       allow: true
       expires: 1d
+      passthru: "/custom_404.php"
