@@ -89,6 +89,9 @@
       '/concerts':
         to: '{default}'
         code: 301    
+      '/concerts.rss':
+        to: '{default}'
+        code: 301    
 
 
 
