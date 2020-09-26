@@ -179,9 +179,6 @@
       '/pianists-recording-very-different-most-ive-listened-over-years':
         to: '{default}/review/'
         code: 301
-      '/braille-':
-        to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
-        code: 301
 
 "https://www.{default}/":
   type: redirect
