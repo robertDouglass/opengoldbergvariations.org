@@ -161,6 +161,27 @@
       '/opening-goldberg':
         to: '{default}'
         code: 301
+      '/ms-ishizaka-has-produced-crisp-informed-rendition-variations':
+        to: '{default}/review/'
+        code: 301
+      '/very-honest-and-lucid-recording-which-rather-showcases-impressive-b-sendorfer-imperial-290-ceus':
+        to: '{default}/review/'
+        code: 301
+      '/sit-back-and-realize-how-much-better-music-sounds-once-you-know-you-can-share-it-your-friends':
+        to: '{default}/review/'
+        code: 301
+      '/last-night-when-everyone-else-household-went-bed-i-stayed-listen-copy-public-domain-score':
+        to: '{default}/review/'
+        code: 301 
+      '/case-bachs-goldberg-variations-it-impossible-avoid-long-shadow-still-cast-glenn-goulds-1955-debut':
+        to: '{default}/review/'
+        code: 301
+      '/pianists-recording-very-different-most-ive-listened-over-years':
+        to: '{default}/review/'
+        code: 301
+      '/braille-':
+        to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
+        code: 301
 
 "https://www.{default}/":
   type: redirect
