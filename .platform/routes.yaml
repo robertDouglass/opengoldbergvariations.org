@@ -75,9 +75,6 @@
       '/getting-most-out-kickstartercom-pledge-levels':
         to: '{default}'
         code: 301          
-      '/http://www.kickstarter.com/projects/293573191/opengoldbergvariationssettingbachfree65':
-        to: '{default}'
-        code: 301          
       '/review-open-goldberg-variations-and-get-double-cd-free':
         to: '{default}'
         code: 301          
