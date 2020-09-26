@@ -39,9 +39,6 @@
       '/freeing-goldberg-variations':
         to: '{default}'
         code: 301  
-      '/John Gruber is viscerally offended':
-        to: '{default}'
-        code: 301  
       '/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico':
         to: '{default}/review/'
         code: 301  
@@ -105,9 +102,6 @@
       '/planning-kickstartercom-project-how-high-set-goal':
         to: '{default}'
         code: 301    
-      '/rss.xml':
-        to: '{default}'
-        code: 301    
       '/reviews':
         to: '{default}/review/'
         code: 301          
@@ -162,9 +156,6 @@
       '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-rockport-ma':
         to: 'https://welltemperedclavier.org'
         code: 301
-      '/&lt':
-        to: '{default}'
-        code: 301
       '/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel':
         to: '{default}/review/'
         code: 301
@@ -192,9 +183,6 @@
       '/braille-':
         to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301
-
-
-
 "https://www.{default}/":
   type: redirect
   to: "https://{default}/"
