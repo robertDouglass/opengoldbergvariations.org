@@ -136,8 +136,22 @@
         code: 301    
       '/contact':
         to: '{default}'
+        code: 301
+      '/each-voice-speaks-its-own-truth-and-together-they-blend-contemplation':
+        to: '{default}/review/'
         code: 301    
-
+      '/recording-goldberg-variations-teldex-studio':
+        to: '{default}'
+        code: 301    
+      '/adrev-contentid-youtube-video-claim-release-form':
+        to: '{default}'
+        code: 301    
+      '/Ulrich':
+        to: '{default}'
+        code: 301
+      '/how-much-money-has-kickstartercom-pumped-music-industry':
+        to: '{default}'
+        code: 301
 
 "https://www.{default}/":
   type: redirect
