@@ -62,6 +62,34 @@
       '/kimiko-ishizakas-open-well-tempered-clavier':
         to: 'https://welltemperedclavier.org'
         code: 301  
+      '/robert-douglass-interviews-aaron-dunn-musopen-about-setting-chopin-free':
+        to: '{default}'
+        code: 301  
+      '/free-cd-drawing-winners':
+        to: '{default}'
+        code: 301  
+      '/getting-most-out-kickstartercom-pledge-levels':
+        to: '{default}'
+        code: 301          
+      '/review-open-goldberg-variations-and-get-double-cd-free':
+        to: '{default}'
+        code: 301          
+      '/braille-edition-open-goldberg-variations':
+        to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
+        code: 301          
+      '/otras':
+        to: '{default}'
+        code: 301            
+      '/embedding-musical-scores-web-pages':
+        to: '{default}'
+        code: 301    
+      '/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach':
+        to: '{default}/review/'
+        code: 301    
+      '/concerts':
+        to: '{default}'
+        code: 301    
+
 
 
 
