@@ -21,11 +21,11 @@
       '/node/191':
         to: '{default}'
         code: 301
-      'https://www.opengoldbergvariations.org/teldex-studio-berlin':
+      '/teldex-studio-berlin':
         to: '{default}'
         code: 301
-      'https://www.opengoldbergvariations.org/download':
-        to: 'https://opengoldbergvariations.org/listen/'
+      '/download':
+        to: '{default}/listen/'
         code: 301
       '/node':
         to: '{default}'
@@ -36,185 +36,185 @@
       '/blog':
         to: '{default}'
         code: 301
-      'http://www.opengoldbergvariations.org/freeing-goldberg-variations':
+      '/freeing-goldberg-variations':
         to: '{default}'
         code: 301  
-      'http://www.opengoldbergvariations.org/John Gruber is viscerally offended':
+      '/John Gruber is viscerally offended':
         to: '{default}'
         code: 301  
-      'http://www.opengoldbergvariations.org/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico':
+      '/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico':
         to: '{default}/review/'
         code: 301  
-      'https://www.opengoldbergvariations.org/overwhelming-positive-response-release-open-goldberg-variations':
+      '/overwhelming-positive-response-release-open-goldberg-variations':
         to: '{default}'
         code: 301  
-      'https://www.opengoldbergvariations.org/complete-series-fractal-landscapes-open-goldberg-variations-finished':
+      '/complete-series-fractal-landscapes-open-goldberg-variations-finished':
         to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
         code: 301  
-      'https://www.opengoldbergvariations.org/classical-cd-distribution-failing-business-three-major-players-shutting-down':
+      '/classical-cd-distribution-failing-business-three-major-players-shutting-down':
         to: '{default}'
         code: 301  
-      'https://www.opengoldbergvariations.org/fun-stop-motion-response-open-goldberg':
+      '/fun-stop-motion-response-open-goldberg':
         to: '{default}'
         code: 301  
-      'https://www.opengoldbergvariations.org/open-goldberg-variations-cds-are-production':
+      '/open-goldberg-variations-cds-are-production':
         to: '{default}'
         code: 301  
-      'https://www.opengoldbergvariations.org/js-bach-well-tempered-clavier-volume-1-complete-video-available':
+      '/js-bach-well-tempered-clavier-volume-1-complete-video-available':
         to: 'https://welltemperedclavier.org'
         code: 301  
-      'https://www.opengoldbergvariations.org/kimiko-ishizakas-open-well-tempered-clavier':
+      '/kimiko-ishizakas-open-well-tempered-clavier':
         to: 'https://welltemperedclavier.org'
         code: 301  
-      'https://www.opengoldbergvariations.org/robert-douglass-interviews-aaron-dunn-musopen-about-setting-chopin-free':
+      '/robert-douglass-interviews-aaron-dunn-musopen-about-setting-chopin-free':
         to: '{default}'
         code: 301  
-      'https://www.opengoldbergvariations.org/free-cd-drawing-winners':
+      '/free-cd-drawing-winners':
         to: '{default}'
         code: 301  
-      'http://www.opengoldbergvariations.org/getting-most-out-kickstartercom-pledge-levels':
+      '/getting-most-out-kickstartercom-pledge-levels':
         to: '{default}'
         code: 301          
-      'http://www.opengoldbergvariations.org/http://www.kickstarter.com/projects/293573191/opengoldbergvariationssettingbachfree65':
+      '/http://www.kickstarter.com/projects/293573191/opengoldbergvariationssettingbachfree65':
         to: '{default}'
         code: 301          
-      'http://www.opengoldbergvariations.org/review-open-goldberg-variations-and-get-double-cd-free':
+      '/review-open-goldberg-variations-and-get-double-cd-free':
         to: '{default}'
         code: 301          
-      'https://www.opengoldbergvariations.org/braille-edition-open-goldberg-variations':
-        to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
+      '/braille-edition-open-goldberg-variations':
+        to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301          
-      'http://www.opengoldbergvariations.org/otras':
+      '/otras':
         to: '{default}'
         code: 301            
-      'http://www.opengoldbergvariations.org/embedding-musical-scores-web-pages':
+      '/embedding-musical-scores-web-pages':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/classical-cd-distribution-failing-business-three-major-players-shutting-down':
+      '/classical-cd-distribution-failing-business-three-major-players-shutting-down':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach':
+      '/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach':
         to: '{default}/review/'
         code: 301    
-      'http://www.opengoldbergvariations.org/concerts':
+      '/concerts':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/concerts.rss':
+      '/concerts.rss':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/soundsnips-free-iphone-app-featuring-open-goldberg-variations':
+      '/soundsnips-free-iphone-app-featuring-open-goldberg-variations':
         to: 'https://www.youtube.com/watch?v=15ezpwCHtJs'
         code: 301    
       'http://www.opengoldbergvariations.org/musescore-releases-free-ipad-app-open-goldberg-variations':
         to: 'https://www.youtube.com/watch?v=15ezpwCHtJs'
         code: 301    
-      'http://www.opengoldbergvariations.org/planning-kickstartercom-project-how-high-set-goal':
+      '/planning-kickstartercom-project-how-high-set-goal':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/rss.xml':
+      '/rss.xml':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/reviews':
-        to: 'https://opengoldbergvariations.org/review/'
+      '/reviews':
+        to: '{default}/review/'
         code: 301          
-      'http://www.opengoldbergvariations.org/help-set-goldberg-variations-freeEn':
+      '/help-set-goldberg-variations-freeEn':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free':
+      '/http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/100-goldberg-variations-unboxing':
+      '/100-goldberg-variations-unboxing':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/amanda-palmer-explains-gratis-music-and-artist-fan-trust':
+      '/amanda-palmer-explains-gratis-music-and-artist-fan-trust':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/open-goldberg-variations-double-cd-now-amazon':
+      '/open-goldberg-variations-double-cd-now-amazon':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/kimiko-ishizaka-announces-world-tour-performing-bach':
-        to: '{default}'
+      '/kimiko-ishizaka-announces-world-tour-performing-bach':
+        to: 'https://kimiko-piano.com'
         code: 301    
-      'https://www.opengoldbergvariations.org/projectgoldberg-fractal-journey':
+      '/projectgoldberg-fractal-journey':
         to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
         code: 301
-      'https://www.opengoldbergvariations.org/kimiko-ishizaka-does-great-job-bring-bachs-composition-life':
+      '/kimiko-ishizaka-does-great-job-bring-bachs-composition-life':
         to: '{default}/review/'
         code: 301    
-      'http://www.opengoldbergvariations.org/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-ann-arbor-mi':
+      '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-ann-arbor-mi':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/partners/imslp-petrucci-music-library':
+      '/partners/imslp-petrucci-music-library':
         to: '{default}'
         code: 301    
-      'https://www.opengoldbergvariations.org/opening-aria-it-obvious-going-be-special-recording':
+      '/opening-aria-it-obvious-going-be-special-recording':
         to: '{default}/review/'
         code: 301    
-      'https://www.opengoldbergvariations.org/contact':
+      '/contact':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/kimiko-ishizakas-open-well-tempered-clavier':
+      '/kimiko-ishizakas-open-well-tempered-clavier':
         to: 'https://welltemperedclavier.org'
         code: 301    
-      'https://www.opengoldbergvariations.org/each-voice-speaks-its-own-truth-and-together-they-blend-contemplation':
+      '/each-voice-speaks-its-own-truth-and-together-they-blend-contemplation':
         to: '{default}/review/'
         code: 301    
-      'http://www.opengoldbergvariations.org/recording-goldberg-variations-teldex-studio':
+      '/recording-goldberg-variations-teldex-studio':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/adrev-contentid-youtube-video-claim-release-form':
+      '/adrev-contentid-youtube-video-claim-release-form':
         to: '{default}'
         code: 301    
-      'http://www.opengoldbergvariations.org/braille-edition-open-goldberg-variations':
+      '/braille-edition-open-goldberg-variations':
         to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301    
-      'http://www.opengoldbergvariations.org/Ulrich':
+      '/Ulrich':
         to: '{default}'
         code: 301
-      'http://www.opengoldbergvariations.org/how-much-money-has-kickstartercom-pumped-music-industry':
+      '/how-much-money-has-kickstartercom-pumped-music-industry':
         to: '{default}'
         code: 301
-      'http://www.opengoldbergvariations.org/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-rockport-ma':
+      '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-rockport-ma':
+        to: 'https://welltemperedclavier.org'
+        code: 301
+      '/&lt':
         to: '{default}'
         code: 301
-      'http://www.opengoldbergvariations.org/&lt':
-        to: '{default}'
-        code: 301
-      'https://www.opengoldbergvariations.org/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel':
+      '/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel':
         to: '{default}/review/'
         code: 301
-      'https://www.opengoldbergvariations.org/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition_0.lbf':
+      '/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition_0.lbf':
         to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301
-      'https://www.opengoldbergvariations.org/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition_0.txt':
+      '/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition_0.txt':
         to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301
-      'https://www.opengoldbergvariations.org/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition.brf':
+      '/sites/g/files/g186701/f/201403/Bach  Goldberg Variations, Braille Edition.brf':
         to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301
-      'https://www.opengoldbergvariations.org/opening-goldberg':
+      '/opening-goldberg':
         to: '{default}'
         code: 301
-      'https://www.opengoldbergvariations.org/ms-ishizaka-has-produced-crisp-informed-rendition-variations':
+      '/ms-ishizaka-has-produced-crisp-informed-rendition-variations':
         to: '{default}/review/'
         code: 301
-      'https://www.opengoldbergvariations.org/very-honest-and-lucid-recording-which-rather-showcases-impressive-b-sendorfer-imperial-290-ceus':
+      '/very-honest-and-lucid-recording-which-rather-showcases-impressive-b-sendorfer-imperial-290-ceus':
         to: '{default}/review/'
         code: 301
-      'https://www.opengoldbergvariations.org/sit-back-and-realize-how-much-better-music-sounds-once-you-know-you-can-share-it-your-friends':
+      '/sit-back-and-realize-how-much-better-music-sounds-once-you-know-you-can-share-it-your-friends':
         to: '{default}/review/'
         code: 301
-      'https://www.opengoldbergvariations.org/last-night-when-everyone-else-household-went-bed-i-stayed-listen-copy-public-domain-score':
+      '/last-night-when-everyone-else-household-went-bed-i-stayed-listen-copy-public-domain-score':
         to: '{default}/review/'
         code: 301 
-      'https://www.opengoldbergvariations.org/case-bachs-goldberg-variations-it-impossible-avoid-long-shadow-still-cast-glenn-goulds-1955-debut':
+      '/case-bachs-goldberg-variations-it-impossible-avoid-long-shadow-still-cast-glenn-goulds-1955-debut':
         to: '{default}/review/'
         code: 301
-      'https://www.opengoldbergvariations.org/pianists-recording-very-different-most-ive-listened-over-years':
+      '/pianists-recording-very-different-most-ive-listened-over-years':
         to: '{default}/review/'
         code: 301
-      'http://www.opengoldbergvariations.org/braille-':
-        to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
+      '/braille-':
+        to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
         code: 301
 
 
