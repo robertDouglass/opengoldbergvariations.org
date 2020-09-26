@@ -40,15 +40,5 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 
 <a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">![The Open Goldberg Variations album cover](/images/open-goldberg-variations-album-cover-700x700.jpg)</a>
 
-## Contact us
-
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "6266766",
-	formId: "4ddbd4b2-9ce5-41c1-b910-2fa214342854"
-});
-</script> 
-
 {{< figure src="/images/thomas-hans.jpeg" class="full" caption="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores." >}}
 
