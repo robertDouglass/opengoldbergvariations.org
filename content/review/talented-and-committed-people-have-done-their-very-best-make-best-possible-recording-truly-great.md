@@ -9,4 +9,6 @@ The important people are the potential customers. There are a billion people onl
 
 This recording will eventually percolate its way around the world, finding a home in schools, universities, homes and mp3 players. If just one per cent of one billion people become fans of Bach's music because of this recording, classical music publishers will have a potential ten million new customers. But if you own Ms Ishizaka's recording, why bother to buy another version of the Goldberg? Well, that's the beauty of of it: every pianist has a different approach to the work. There are amazingly different versions of the work, as Glenn Gould, Andras Schiff, Murray Perahia and many others have demonstrated. It's like Pokémon: gotta catch 'em all. Ahem.
 
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com).</em>
+
 

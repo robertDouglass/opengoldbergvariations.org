@@ -9,3 +9,5 @@ Im Falle der vorliegenden Einspielung von Kimiko Ishizaka handelt es sich aber n
 
 Der Klang der Aufnahme ist übrigens schlichtweg fantastisch und geht weit über das Niveau hinaus, das man von kostenlosen Aufnahmen üblicherweise kennt, im Gegenteil: Der klare, saubere und warme Sound der Aufnahme kann sich mit so manch kommerzieller Aufnahme messen. Da die Open Goldbergs auch in verlustfreien Audioformaten (FLAC, WAV) vorliegen, muss man auch keine audiophilen Klangeinbußen durch Audiokomprimierung fürchten.
 
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com).</em>
+

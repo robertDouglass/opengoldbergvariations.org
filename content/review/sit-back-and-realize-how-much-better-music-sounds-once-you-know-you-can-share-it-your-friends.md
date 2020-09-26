@@ -7,3 +7,6 @@ draft: false
 
 There’s quite a bit of variety in these recordings, but I have to say my favorite is the Kimiko Ishizaka rendition. First, the recording is top-notch. The soundstage for the piano is amazing. Secondly, the performance is anything but rote. There’s a feeling to the playing that just feels quite alive. With some of these previous albums, I felt quite bored midway, but this recording kept my attention throughout, and (dare i say it) I wanted to hear more when the album finished. Adding the nature of the project (funded via Kickstarter, and released completely under the CC0 license), and you have my undivided attention.
 
+
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com).</em>
+

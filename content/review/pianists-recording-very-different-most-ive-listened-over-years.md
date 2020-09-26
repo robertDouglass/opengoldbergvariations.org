@@ -12,3 +12,5 @@ draft: false
 >"Variation 9, the canon at the third, and Variation 13 are both lovely examples of her style with its dips in dynamcs, subtle rubato, and slight ornamentation on the repeats, aspects that work in her performance because they all feel very natural."
  
 *Scott Noriega, Issue 36:1 (Sept/Oct 2012), Fanfare Magazine*
+
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com).</em>

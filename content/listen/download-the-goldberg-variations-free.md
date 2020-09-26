@@ -7,5 +7,5 @@ categories:
   - Download
   - Bandcamp
 ---
-The Open Goldberg Variations are available [for download from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com). 
+The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com). 
 
