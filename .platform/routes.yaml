@@ -46,7 +46,23 @@
         code: 301  
       '/complete-series-fractal-landscapes-open-goldberg-variations-finished':
         to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
+        code: 301
+      '/classical-cd-distribution-failing-business-three-major-players-shutting-down':
+        to: '{default}'
         code: 301  
+      '/fun-stop-motion-response-open-goldberg':
+        to: '{default}'
+        code: 301  
+      '/open-goldberg-variations-cds-are-production':
+        to: '{default}'
+        code: 301  
+      '/js-bach-well-tempered-clavier-volume-1-complete-video-available':
+        to: 'https://welltemperedclavier.org'
+        code: 301  
+      '/kimiko-ishizakas-open-well-tempered-clavier':
+        to: 'https://welltemperedclavier.org'
+        code: 301  
+
 
 
 
