@@ -114,9 +114,6 @@
       '/help-set-goldberg-variations-freeEn':
         to: '{default}'
         code: 301    
-      '/http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free':
-        to: '{default}'
-        code: 301    
       '/100-goldberg-variations-unboxing':
         to: '{default}'
         code: 301    
