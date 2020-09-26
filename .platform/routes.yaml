@@ -159,9 +159,6 @@
       '/adrev-contentid-youtube-video-claim-release-form':
         to: '{default}'
         code: 301    
-      '/braille-edition-open-goldberg-variations':
-        to: 'https://opengoldbergvariations.org/news/braille-edition-of-the-open-goldberg-variations/'
-        code: 301    
       '/Ulrich':
         to: '{default}'
         code: 301
