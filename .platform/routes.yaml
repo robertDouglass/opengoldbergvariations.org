@@ -13,46 +13,46 @@
           to: 'https://musescore.com/opengoldberg/goldberg-variations'
           code: 301
         '/here-come-mashups-and-visualizations':	
-          to: '{default}'
+          to: '/'
           code: 301
         '/node/191':
-          to: '{default}'
+          to: '/'
           code: 301
         '/teldex-studio-berlin':
-          to: '{default}'
+          to: '/'
           code: 301
         '/download':
-          to: '{default}/listen/'
+          to: '/listen/'
           code: 301
         '/node':
-          to: '{default}'
+          to: '/'
           code: 301
         '/media-gallery':
-          to: '{default}'
+          to: '/'
           code: 301
         '/blog':
-          to: '{default}'
+          to: '/'
           code: 301
         '/freeing-goldberg-variations':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/la-idea-se-llev-cabo-y-el-resultado-es-magn-fico':
-          to: '{default}/review/'
+          to: '/review/'
           code: 301  
         '/overwhelming-positive-response-release-open-goldberg-variations':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/complete-series-fractal-landscapes-open-goldberg-variations-finished':
           to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
           code: 301
         '/classical-cd-distribution-failing-business-three-major-players-shutting-down':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/fun-stop-motion-response-open-goldberg':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/open-goldberg-variations-cds-are-production':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/js-bach-well-tempered-clavier-volume-1-complete-video-available':
           to: 'https://welltemperedclavier.org'
@@ -61,34 +61,34 @@
           to: 'https://welltemperedclavier.org'
           code: 301  
         '/robert-douglass-interviews-aaron-dunn-musopen-about-setting-chopin-free':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/free-cd-drawing-winners':
-          to: '{default}'
+          to: '/'
           code: 301  
         '/getting-most-out-kickstartercom-pledge-levels':
-          to: '{default}'
+          to: '/'
           code: 301          
         '/review-open-goldberg-variations-and-get-double-cd-free':
-          to: '{default}'
+          to: '/'
           code: 301          
         '/braille-edition-open-goldberg-variations':
-          to: '{default}/news/braille-edition-of-the-open-goldberg-variations/'
+          to: '/news/braille-edition-of-the-open-goldberg-variations/'
           code: 301          
         '/otras':
-          to: '{default}'
+          to: '/'
           code: 301            
         '/embedding-musical-scores-web-pages':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach':
-          to: '{default}/review/'
+          to: '/review/'
           code: 301    
         '/concerts':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/concerts.rss':
-          to: '{default}'
+          to: '/'
           code: 301
         '/soundsnips-free-iphone-app-featuring-open-goldberg-variations':
           to: 'https://www.youtube.com/watch?v=15ezpwCHtJs'
@@ -97,22 +97,22 @@
           to: 'https://www.youtube.com/watch?v=15ezpwCHtJs'
           code: 301    
         '/planning-kickstartercom-project-how-high-set-goal':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/reviews':
-          to: '{default}/review/'
+          to: '/review/'
           code: 301          
         '/help-set-goldberg-variations-freeEn':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/100-goldberg-variations-unboxing':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/amanda-palmer-explains-gratis-music-and-artist-fan-trust':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/open-goldberg-variations-double-cd-now-amazon':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/kimiko-ishizaka-announces-world-tour-performing-bach':
           to: 'https://kimiko-piano.com'
@@ -121,31 +121,31 @@
           to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
           code: 301  
         '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-ann-arbor-mi':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/partners/imslp-petrucci-music-library':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/contact':
-          to: '{default}'
+          to: '/'
           code: 301
         '/recording-goldberg-variations-teldex-studio':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/adrev-contentid-youtube-video-claim-release-form':
-          to: '{default}'
+          to: '/'
           code: 301    
         '/Ulrich':
-          to: '{default}'
+          to: '/'
           code: 301
         '/how-much-money-has-kickstartercom-pumped-music-industry':
-          to: '{default}'
+          to: '/'
           code: 301
         '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-rockport-ma':
           to: 'https://welltemperedclavier.org'
           code: 301
         '/opening-goldberg':
-          to: '{default}'
+          to: '/'
           code: 301
 
 "https://www.{default}/":
