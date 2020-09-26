@@ -152,6 +152,15 @@
       '/how-much-money-has-kickstartercom-pumped-music-industry':
         to: '{default}'
         code: 301
+      '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-rockport-ma':
+        to: 'https://welltemperedclavier.org'
+        code: 301
+      '/kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel':
+        to: '{default}/review/'
+        code: 301
+      '/opening-goldberg':
+        to: '{default}'
+        code: 301
 
 "https://www.{default}/":
   type: redirect
