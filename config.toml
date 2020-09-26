@@ -14,8 +14,8 @@ url = "https://opengoldbergvariations.org"
 
 
 [params]
-    tagline = "Bach's Goldberg Variations, performed by Kimiko Ishizaka"
-    description = "The Open Goldberg Variations (Johann Sebastian Bach, BWV 988), played by Kimiko Ishizaka on a Bösendorfer 290 Imperial piano, are free to download and share. They are governed by the Creative Commons Zero license, which means that they are a part of the public domain, and every use of them is allowed."
+    tagline = "Bach's Goldberg Variations, played by Kimiko Ishizaka"
+    description = "The Open Goldberg Variations (Johann Sebastian Bach, BWV 988), played by Kimiko Ishizaka, are free to download and share. They are governed by the Creative Commons Zero license, which means that they are a part of the public domain, and every use of them is allowed."
     images = ["https://opengoldbergvariations.org/images/open-goldberg-variations.png"] #This is used for opengraph/twitter cards.
 
 [markup.goldmark.renderer]
