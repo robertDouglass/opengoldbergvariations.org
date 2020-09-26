@@ -17,6 +17,15 @@
       '/here-come-mashups-and-visualizations':	
         to: '{default}'
         code: 301
+      '/node/191':
+        to: '{default}'
+        code: 301
+      '/teldex-studio-berlin':
+        to: '{default}'
+        code: 301
+      '/download':
+        to: '{default}/listen/'
+        code: 301
 
 
 "https://www.{default}/":
