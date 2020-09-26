@@ -90,9 +90,6 @@
       '/embedding-musical-scores-web-pages':
         to: '{default}'
         code: 301    
-      '/classical-cd-distribution-failing-business-three-major-players-shutting-down':
-        to: '{default}'
-        code: 301    
       '/turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach':
         to: '{default}/review/'
         code: 301    
