@@ -125,9 +125,6 @@
           code: 301    
         '/partners/imslp-petrucci-music-library':
           to: '/'
-          code: 301    
-        '/contact':
-          to: '/'
           code: 301
         '/recording-goldberg-variations-teldex-studio':
           to: '/'
