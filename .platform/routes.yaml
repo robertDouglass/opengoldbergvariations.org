@@ -119,6 +119,24 @@
       '/kimiko-ishizaka-announces-world-tour-performing-bach':
         to: 'https://kimiko-piano.com'
         code: 301    
+      '/projectgoldberg-fractal-journey':
+        to: 'https://www.youtube.com/watch?v=PtwE0pJKC6g&list=PLltnFtK_6Ww_1xir0-FdTSns8R5fJ0UKI'
+        code: 301
+      '/kimiko-ishizaka-does-great-job-bring-bachs-composition-life':
+        to: '{default}/review/'
+        code: 301    
+      '/kimiko-ishizaka-plays-well-tempered-clavier-vol-1-ann-arbor-mi':
+        to: '{default}'
+        code: 301    
+      '/partners/imslp-petrucci-music-library':
+        to: '{default}'
+        code: 301    
+      '/opening-aria-it-obvious-going-be-special-recording':
+        to: '{default}/review/'
+        code: 301    
+      '/contact':
+        to: '{default}'
+        code: 301    
 
 
 "https://www.{default}/":
