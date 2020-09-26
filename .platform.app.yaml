@@ -26,4 +26,4 @@ web:
       scripts: false
       allow: true
       expires: 1d
-      passthru: "/404.html"
+      passthru: "/custom_404.php"
