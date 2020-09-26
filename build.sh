@@ -17,3 +17,4 @@ sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml > sitemap2.x
 rm sitemap.xml
 mv sitemap2.xml sitemap.xml
 cp sitemap.xml sitemap-google.xml
+rm build.sh
