@@ -35,7 +35,8 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 
 *Christopher Lim in The Business Times, July 20, 2012*
 
-
 <a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">![The Open Goldberg Variations album cover](/images/open-goldberg-variations-album-cover-700x700.jpg)</a>
+
+Contact: kimiko@kimiko-piano.com
 
 {{< figure src="/images/thomas-hans.jpeg" class="full" caption="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores." >}}
