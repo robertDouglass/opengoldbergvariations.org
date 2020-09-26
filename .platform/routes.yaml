@@ -99,7 +99,7 @@
       '/soundsnips-free-iphone-app-featuring-open-goldberg-variations':
         to: 'https://www.youtube.com/watch?v=15ezpwCHtJs'
         code: 301    
-      'http://www.opengoldbergvariations.org/musescore-releases-free-ipad-app-open-goldberg-variations':
+      '/musescore-releases-free-ipad-app-open-goldberg-variations':
         to: 'https://www.youtube.com/watch?v=15ezpwCHtJs'
         code: 301    
       '/planning-kickstartercom-project-how-high-set-goal':
