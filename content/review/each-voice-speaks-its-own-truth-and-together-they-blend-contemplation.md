@@ -3,7 +3,6 @@ title: "Each voice speaks its own truth, and together they blend in contemplatio
 slug: "each-voice-speaks-its-own-truth-and-together-they-blend-contemplation"
 date: 2012-06-09
 categories:
-  - Review
   - Glenn Gould
 draft: false
 ---

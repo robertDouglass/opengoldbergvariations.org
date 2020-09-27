@@ -2,7 +2,6 @@
 title: "Kimiko Ishizakas Aufnahme kann künstlerisch mit den besten Einspielungen auf modernem Konzertflügel mithalten"
 slug: "kimiko-ishizakas-aufnahme-kann-k-nstlerisch-mit-den-besten-einspielungen-auf-modernem-konzertfl-gel"
 categories:
-  - Review
   - Glenn Gould
 date: 2012-07-23
 draft: false

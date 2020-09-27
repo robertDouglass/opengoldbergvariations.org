@@ -3,7 +3,6 @@ title: "La idea se llevó a cabo y el resultado es magnífico"
 slug: "la-idea-se-llev-cabo-y-el-resultado-es-magn-fico"
 date: 2012-07-18
 categories:
-  - Review
   - Glenn Gould
 draft: false
 ---

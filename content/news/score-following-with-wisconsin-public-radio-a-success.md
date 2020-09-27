@@ -1,10 +1,6 @@
 ---
 title: "Score Following With Wisconsin Public Radio a Success"
 slug: "score-following-with-wisconsin-public-radio-a-success"
-categories:
-  - Technology
-  - Radio
-  - Sheet music
 date: 2012-04-24
 draft: false
 ---

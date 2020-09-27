@@ -3,7 +3,6 @@ title: "Bösendorfer Sponsors the Open Goldberg Project, Providing Concert Grand
 date: 2011-05-28
 categories:
   - Boesendorfer
-  - Piano
 draft: false
 ---
 [Bösendorfer](http://www.boesendorfer.com/), one of the world's oldest and most prestigious piano manufacturers, will sponsor the Open Goldberg Project, which is creating a new score and recording of J.S. Bach's Goldberg Variations. Both the score and the recording will be released as public domain works, guaranteeing that they will be free for everyone, forever. The variations will be performed in a top German sound studio by award-winning pianist Kimiko Ishizaka, to produce a definitive contemporary recording of the highest professional standard. The score will be created by MuseScore, the leading open source music notation company.

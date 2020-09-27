@@ -2,7 +2,6 @@
 title: "Talented and committed people have done their very best to make the best possible recording of a truly great piece of music - and then give it away for free"
 slug: "talented-and-committed-people-have-done-their-very-best-make-best-possible-recording-truly-great"
 categories:
-  - Review
   - Glenn Gould
 date: 2012-05-28
 draft: false
