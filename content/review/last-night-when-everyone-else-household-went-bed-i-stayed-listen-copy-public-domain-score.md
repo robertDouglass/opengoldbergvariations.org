@@ -1,5 +1,9 @@
 ---
 title: "Last night when everyone else in the household went to bed, I stayed up to listen to this with a copy of the public domain score (from MuseScore.com) in front of me."
+slug: "last-night-when-everyone-else-household-went-bed-i-stayed-listen-copy-public-domain-score"
+categories:
+  - Review
+  - Glenn Gould
 date: 2012-06-02
 draft: false
 ---

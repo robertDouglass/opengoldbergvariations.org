@@ -1,6 +1,9 @@
 ---
 title: "Kimiko Ishizaka does a great job to bring Bach's composition to life"
+slug: "kimiko-ishizaka-does-great-job-bring-bachs-composition-life"
 date: 2012-06-11
+categories:
+  - Review
 draft: false
 ---
 *Reviewed by [Marc-André Laverdière](http://asimplediscipleslife.blogspot.com/2012/06/open-goldberg-variations.html) on June 11, 2012*

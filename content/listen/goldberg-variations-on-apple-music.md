@@ -1,5 +1,6 @@
 ---
 title: "Goldberg Variations on Apple Music"
+slug: "goldberg-variations-on-apple-music"
 date: 2019-12-10T13:24:31+01:00
 draft: false
 weight: 100

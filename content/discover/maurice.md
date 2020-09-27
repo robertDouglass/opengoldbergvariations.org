@@ -1,5 +1,6 @@
 ---
 title: "Maurice (1987) and the Goldberg Variations"
+slug: "maurice"
 date: 2020-09-24
 draft: false
 ---

@@ -1,5 +1,9 @@
 ---
 title: "Turn off the cellphone, dim the lights and get a cold drink. Enough chitchat, time for some Bach!"
+slug: "turn-cellphone-dim-lights-and-get-cold-drink-enough-chitchat-time-some-bach"
+categories:
+  - Review
+  - Glenn Gould
 date: 2012-07-29
 draft: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: "The English Patient and the Goldberg Variations"
+slug: "the-english-patient"
 date: 2020-09-24
 draft: false
 ---

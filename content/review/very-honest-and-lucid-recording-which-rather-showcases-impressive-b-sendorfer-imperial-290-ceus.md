@@ -1,5 +1,10 @@
 ---
 title: "A very honest and lucid recording which rather showcases the impressive Bösendorfer Imperial 290 CEUS"
+slug: "very-honest-and-lucid-recording-which-rather-showcases-impressive-b-sendorfer-imperial-290-ceus"
+categories:
+  - Review
+  - Soundcloud
+  - Boesendorfer
 date: 2012-05-28
 draft: false
 ---

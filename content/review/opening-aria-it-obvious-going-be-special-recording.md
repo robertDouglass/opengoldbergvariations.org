@@ -1,6 +1,9 @@
 ---
 title: "From the opening of the Aria it is obvious that this is going to be a special recording"
+slug: "opening-aria-it-obvious-going-be-special-recording"
 date: 2012-05-29
+categories:
+  - Review
 draft: false
 ---
 *Reviewed by [Peter Amsel](http://crazycomposer.blogspot.ca/2012/05/open-goldberg-variations-recording.html), May 29, 2012*

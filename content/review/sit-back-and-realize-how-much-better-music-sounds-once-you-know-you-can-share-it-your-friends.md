@@ -1,5 +1,8 @@
 ---
 title: "Sit back, and realize how much better this music sounds once you know that you can share it with your friends."
+slug: "sit-back-and-realize-how-much-better-music-sounds-once-you-know-you-can-share-it-your-friends"
+categories:
+  - Review
 date: 2012-05-19
 draft: false
 ---

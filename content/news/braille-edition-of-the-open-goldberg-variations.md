@@ -1,5 +1,6 @@
 ---
 title: "Braille Edition of the Open Goldberg Variations"
+slug: "braille-edition-of-the-open-goldberg-variations"
 date: 2014-03-23
 draft: false
 categories:

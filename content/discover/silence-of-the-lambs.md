@@ -1,5 +1,6 @@
 ---
 title: "Silence of the Lambs and the Goldberg Variations"
+slug: "silence-of-the-lambs"
 date: 2020-09-23
 draft: false
 ---

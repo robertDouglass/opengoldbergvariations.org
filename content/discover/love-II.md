@@ -1,5 +1,6 @@
 ---
 title: "title"
+slug: "slug"
 date: 2020-09-24
 draft: true
 ---

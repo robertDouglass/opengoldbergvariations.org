@@ -1,5 +1,6 @@
 ---
 title: "Solaris (2002) and the Goldberg Variations"
+slug: "solaris"
 date: 2020-09-24
 draft: false
 ---

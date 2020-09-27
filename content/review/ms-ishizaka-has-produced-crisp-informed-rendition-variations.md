@@ -1,6 +1,9 @@
 ---
 title: "Ms. Ishizaka has produced a crisp, informed rendition of the Variations. "
+slug: "ms-ishizaka-has-produced-crisp-informed-rendition-variations"
 date: 2012-05-31
+categories:
+  - Review
 draft: false
 ---
 *Reviewed by The Owl Underground, May 31, 2012.*

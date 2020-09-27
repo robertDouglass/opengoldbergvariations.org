@@ -1,6 +1,10 @@
 ---
 title: "Each voice speaks its own truth, and together they blend in contemplation."
+slug: "each-voice-speaks-its-own-truth-and-together-they-blend-contemplation"
 date: 2012-06-09
+categories:
+  - Review
+  - Glenn Gould
 draft: false
 ---
 *Reviewed by Bob Jones, June 9, 2012*
