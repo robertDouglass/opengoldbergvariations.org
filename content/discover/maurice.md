@@ -1,5 +1,5 @@
 ---
-title: "Maurice (1987)"
+title: "Maurice (1987) and the Goldberg Variations"
 date: 2020-09-24
 draft: false
 ---

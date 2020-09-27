@@ -1,5 +1,5 @@
 ---
-title: "Slaughterhouse-Five (1972)"
+title: "Slaughterhouse-Five (1972) and the Goldberg Variations"
 date: 2020-09-24
 draft: false
 ---
