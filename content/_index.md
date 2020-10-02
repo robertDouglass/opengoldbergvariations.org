@@ -13,7 +13,7 @@ You can [download the Open Goldberg Variations for free](https://music.kimiko-pi
 
 The Open Goldberg Variations is also available on all major streaming platforms, such as [Spotify and Deezer](/listen/).
 
-![Open Goldberg Variations Logo](/images/OGV-Logo.jpg)
+![Open Goldberg Variations Logo](/images/OGV-Logo---WebP.webp)
 
 ## What People Say
 
@@ -35,8 +35,8 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 
 *Christopher Lim in The Business Times, July 20, 2012*
 
-<a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">![The Open Goldberg Variations album cover](/images/open-goldberg-variations-album-cover-700x700.jpg)</a>
+<a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">![The Open Goldberg Variations album cover](/images/open-goldberg-variations-album-cover-700x700---WebP.webp)</a>
 
 Contact: kimiko@kimiko-piano.com
 
-{{< figure src="/images/thomas-hans.jpeg" class="full" caption="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores." >}}
+{{< figure src="/images/thomas-hans---WebP.webp" class="full" caption="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores." >}}
