@@ -25,5 +25,5 @@ web:
       index: ['index.html']
       scripts: true
       allow: true
-      expires: 1d
+      expires: 1w
       passthru: "/custom_404.php"
