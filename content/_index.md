@@ -36,7 +36,7 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 
 *Christopher Lim in The Business Times, July 20, 2012*
 
-<a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">![The Open Goldberg Variations album cover](/images/open-goldberg-variations-album-cover-700x700---WebP.webp)</a>
+<a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">![The Open Goldberg Variations album cover](/images/open-goldberg-variations-album-cover-700x70---WebP.webp)</a>
 
 Contact: kimiko@kimiko-piano.com
 
