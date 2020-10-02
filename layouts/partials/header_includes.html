@@ -9,7 +9,7 @@
   {{- range .Site.Params.customCSS -}}
     <link rel='stylesheet' href='{{ . | absURL }}'>
   {{- end -}}
-
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script>
 		function youTubes_makeDynamic() {
 			var $ytIframes = $('iframe[src*="youtube.com"]');
