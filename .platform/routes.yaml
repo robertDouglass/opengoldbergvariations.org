@@ -144,6 +144,9 @@
         '/opening-goldberg':
           to: '/'
           code: 301
+        '/download':
+          to: 'https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano'
+          code: 301
 
 "https://www.{default}/":
   type: redirect
