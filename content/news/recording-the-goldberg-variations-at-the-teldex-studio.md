@@ -22,7 +22,7 @@ Soundcloud comes to visit
 
 Another highlight came on Thursday when we got visited by two members of the Soundcloud team, Robb Böhnke and Marie Elliott, who sat in on a couple hours of the recording and then joined us for dinner. Soundcloud provides a great widget for sharing music on the web. We're going to use Soundcloud to share the final Goldberg Variations with everybody when it gets released. The MuseScore developers and Soundcloud developers also run into each other frequently at various Music Hack Days around the world, thus it was totally natural to have them come over and participate in the project for a bit. Their timing was particularly good, too, as they were there to witness the "Thursday Night Miracle".
 
-{{< figure src="/images/kimiko-anne-marie-studio-1600x1200.JPG" class="float-right" caption="Discussing the score" >}}
+{{< figure src="/images/kimiko-anne-marie-studio-1600x1200.webp" class="float-right" caption="Discussing the score" >}}
 
 ## The Thursday Night Miracle
 
