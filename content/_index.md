@@ -43,4 +43,10 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 
 Contact: kimiko@kimiko-piano.com
 
-{{< figure src="/images/thomas-hans---WebP.webp" class="full" caption="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores." >}}
+<figure class="full">
+    <img src="/images/thomas-hans---WebP.webp" 
+         loading="lazy"
+         alt="MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores."/> <figcaption>
+            <p>MuseScore CEO, Thomas Bonte, and avid supporter Hans de Raad, with their Open Goldberg Variations scores.</p>
+        </figcaption>
+</figure>
