@@ -6,8 +6,10 @@ description: "The Open Goldberg Variations is a project led by pianist Kimiko Is
 ---
 The Open Goldberg Variations is a project by pianist [Kimiko Ishizaka](https://kimiko-piano.com), and [MuseScore.com](https://musescore.com/opengoldberg/goldberg-variations), to create a public domain recording and score of J.S. Bach's masterpiece, *Die Goldberg Variationen (BWV 988)*.    
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
  <iframe src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&loop=1&modestbranding=1&playsinline=1&showinfo=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen 
  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="J.S. Bach Goldberg Variations, Kimiko Ishizaka, Piano"></iframe>
+</div>
 
 ## J.S. Bach, Goldberg Variations BWV 988, Free Download
 
