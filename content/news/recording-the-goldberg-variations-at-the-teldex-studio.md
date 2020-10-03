@@ -40,4 +40,11 @@ The normal recording ended right on schedule, Friday afternoon. Everybody was ph
 
 In all, the sessions went better than anyone had expected. The team worked extremely well together and we were able to dive deep into the small nuances of Kimiko's interpretation to capture every detail. Kimiko kept her concentration up all week long and thrilled us with her playing. Anne-Marie Sylvestre and Tobias Lehmann are extremely experienced recording engineers and showed what excellent ears they have for the piano. Bernhard Farenholtz kept the Bösendorfer in prime condition and helped us achieve the ideal sound that Kimiko was looking for. Cuddly was damn cute the whole time. A perfect team! There is a lot of work to be done to finish the production of the final recording, but we'll share lots of updates along the way.
 
-{{< figure src="/images/P1030966-1600x900.JPG" class="full" caption="The full team in the studio" >}}
+<figure class="full">
+    <img src="/images/P1030966-1600x900.JPG"
+         alt="The full team in the studio"
+         loading="lazy"/> 
+         <figcaption>
+            <p>The full Open Goldberg Variations team in the studio</p>
+        </figcaption>
+</figure>
