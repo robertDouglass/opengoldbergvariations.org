@@ -30,7 +30,7 @@ Older Daughter: <cite>It's "interesting".</cite>
  
  Older Daughter: <cite>Beause it's written from his perspective, you sort of understand and sympathize with him. which is kind of amazing because he's essentially a child molester. But his love for her, it's beautiful. But it's also sort of a trick, because it's so wrong; he's hold and he basically rapes her. So, it makes me feel.... I hate him. And somehow I feel sorry for him at the same time.</cite>
 
-{{< figure src="/images/the-english-patient-goldberg-variations-800.jpg" class="full" caption="The English Patient: Hana plays Bach's Goldberg Variations" >}}
+{{< figure src="/images/captain-fantastic-goldberg-variations.jpg" class="full" caption="Captain Fantastic: This family loves Bach's Goldberg Variations" >}}
 
 Hanna is playing on a broken piano when an Indian Sikh appears to warn her of possible mines, left behind by the Germans. Hanna jokes with him "Maybe you're safe as long as you only play Bach", reasoning that the mine would not go off if Germanic music were played.
 
