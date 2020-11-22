@@ -54,7 +54,7 @@ Ben: <cite>When a person usually a man, forces another person, usually a woman, 
 
 Clearly, Ben is very dedicated to his chosen pedagogical philosophy. He does seem somewhat uncomfortable with the exchange, though. Less uncomfortable than during the mountain climbing scene earlier in the film, where his son incurs an injury while climbing a sheer cliff!
 
-Here is BWV 988, Variation 25 A 2 Clav.: Adagio. from the Goldberg Variations.
+Here is BWV 988, Variation 25 A 2 Clav.: Adagio from the Goldberg Variations.
 
 <iframe width="640" height="385" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=3581" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
