@@ -1,5 +1,5 @@
 ---
-title: "Captain Fantastic (2015) and the Goldberg Variations"
+title: "Captain Fantastic (2016) and the Goldberg Variations"
 date: 2020-11-22
 draft: false
 ---
