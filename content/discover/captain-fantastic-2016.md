@@ -6,7 +6,7 @@ draft: false
 
 Several pieces from the Goldberg Variations are heard in Captain Fantastic during a scene where the father, Ben (Viggo Mortensen), is discussing human sexuality with his daughters.
 
-##  What does rape mean?
+##  What's a bordello?
 
 As a father, Ben feircely believes in raising smart, independent, and strong children, guided by their own innate curiosity. The scene takes place during the camper bus ride from the wilderness to civilisation where the family will attempt to give their recently deceased mother a proper burial. The first part of the scene is between Ben and his eldest daughter, who is reading Nabakov's "Lolita".
 
@@ -32,14 +32,30 @@ Older Daughter: <cite>It's "interesting".</cite>
 
 {{< figure src="/images/captain-fantastic-goldberg-variations.jpg" class="full" caption="Captain Fantastic: This family loves Bach's Goldberg Variations" >}}
 
-Hanna is playing on a broken piano when an Indian Sikh appears to warn her of possible mines, left behind by the Germans. Hanna jokes with him "Maybe you're safe as long as you only play Bach", reasoning that the mine would not go off if Germanic music were played.
+The conversation becomes really interesting when Ben's youngest daughter, listening in, starts to ask her own questions. 
 
-## I'll probably marry him
+## What does rape mean?
 
-Later, Hanna tells the English Patient that she'll probably marry that Indian Sikh, because her mother always told her that she would summon her future husband by playing the piano.
+Ben: <cite>When a person usually a man, forces another person usually a woman, to have sexual intercourse.</cite>
+ 
+ <cite>Who's hungry?</cite>
+ 
+ Youngest daughter: <cite>What's sexual intercourse?</cite>
+ 
+ Ben: <cite>When a man sticks his penis in a woman's vagina. Everyone keep their eyes peeled for deer.</cite>
+ 
+ Youngest daughter: <cite>Why would a man stick his penis in a woman's vagina?</cite>
+ 
+ Ben: <cite>Because it can give them both pleasure. And because the combination of a man's sperm and a woman's egg can create a baby and continue the human race.</cite>
+ 
+ Youngest daughter: <cite>But that's where she pees...</cite>
+ 
+ <cite>Pee comes not from the vagina, but from the urethra.</cite>
 
-Listen to Variation 1, from Bach's Goldberg Variations, in the video below.
+Clearly, Ben is very dedicated to his chosen pedagogical philosophy. He does seem somewhat uncomfortable with the exchange, though. Less uncomfortable than during the mountain climbing scene earlier in the film, where his son incurs an injury while climbing a sheer cliff!
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=300" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is BWV 988, Variation 25 A 2 Clav.: Adagio. from the Goldberg Variations.
+
+<iframe width="640" height="385" src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&start=3581" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
