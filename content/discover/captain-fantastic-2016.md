@@ -16,20 +16,19 @@ Older Daughter: <cite>I'm skipping ahead.</cite>
 
 Ben: <cite>And?</cite>
 
-It's "interesting".
+Older Daughter: <cite>It's "interesting".</cite>
 
- Interesting. Illegal word! Kiera said "interesting".
+ Other children: <cite>Interesting. Illegal word! Kiera said "interesting".</cite>
  
- "Interesting" is a non-word. You know you're supposed to avoid it. Be specific.
+ Ben: <cite>"Interesting" is a non-word. You know you're supposed to avoid it. Be specific.</cite>
  
- It's disturbing. 
+ Older Daughter: <cite>It's disturbing.</cite>
  
- More specific.
+ Ben: <cite>More specific.</cite>
  
  ...
  
- 
- Beause it's written from his perspective, you sort of understand and sympathize with him. which is kind of amazing because he's essentially a child molester. But his love for her, it's beautiful. But it's also sort of a trick, because it's so wrong; he's hold and he basically rapes her. So, it makes me feel.... I hate him. And somehow I feel sorry for him at the same time.
+ Older Daughter: <cite>Beause it's written from his perspective, you sort of understand and sympathize with him. which is kind of amazing because he's essentially a child molester. But his love for her, it's beautiful. But it's also sort of a trick, because it's so wrong; he's hold and he basically rapes her. So, it makes me feel.... I hate him. And somehow I feel sorry for him at the same time.</cite>
 
 {{< figure src="/images/the-english-patient-goldberg-variations-800.jpg" class="full" caption="The English Patient: Hana plays Bach's Goldberg Variations" >}}
 
