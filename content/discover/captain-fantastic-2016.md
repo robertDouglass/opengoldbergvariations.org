@@ -30,13 +30,13 @@ Kiera: <cite>It's disturbing.</cite>
  
  ...
  
-Kiera: <cite>Beause it's written from his perspective, you sort of understand and sympathize with him. which is kind of amazing because he's essentially a child molester. But his love for her, it's beautiful. But it's also sort of a trick, because it's so wrong; he's hold and he basically rapes her. So, it makes me feel.... I hate him. And somehow I feel sorry for him at the same time.</cite>
+Kiera: <cite>Beause it's written from his perspective, you sort of understand and sympathize with him. which is kind of amazing because he's essentially a child molester. But his love for her, it's beautiful. But it's also sort of a trick, because it's so wrong; he's old and he basically rapes her. So, it makes me feel.... I hate him. And somehow I feel sorry for him at the same time.</cite>
 
 The conversation becomes really interesting when Ben's youngest daughter, listening in, starts to ask her own questions. 
 
 ## What does rape mean?
 
-Ben: <cite>When a person usually a man, forces another person usually a woman, to have sexual intercourse.</cite>
+Ben: <cite>When a person usually a man, forces another person, usually a woman, to have sexual intercourse.</cite>
  
  <cite>Who's hungry?</cite>
  
@@ -50,7 +50,7 @@ Ben: <cite>When a person usually a man, forces another person usually a woman, t
  
  Youngest daughter: <cite>But that's where she pees...</cite>
  
- <cite>Pee comes not from the vagina, but from the urethra.</cite>
+ Ben: <cite>Pee comes not from the vagina, but from the urethra.</cite>
 
 Clearly, Ben is very dedicated to his chosen pedagogical philosophy. He does seem somewhat uncomfortable with the exchange, though. Less uncomfortable than during the mountain climbing scene earlier in the film, where his son incurs an injury while climbing a sheer cliff!
 
