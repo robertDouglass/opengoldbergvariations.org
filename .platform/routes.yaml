@@ -1,4 +1,4 @@
-"https://{default}/":
+"https://www.{default}/":
   type: upstream
   upstream: "hugo:http"
   redirects:
@@ -151,6 +151,6 @@
           to: '/news/braille-edition-of-the-open-goldberg-variations/'
           code: 301
 
-"https://www.{default}/":
+"https://{default}/":
   type: redirect
-  to: "https://{default}/"
+  to: "https://www.{default}/"
