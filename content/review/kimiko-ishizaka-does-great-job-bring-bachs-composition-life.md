@@ -8,5 +8,5 @@ draft: false
 
 The 10th variation makes me feel like stopping whatever I am doing and just listen to it. Variation 15 brought me a feeling of melancholy out of the blue. I felt the joy in the start of the 22nd variation and it brought me a smile. Only real music does that to people.
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
 

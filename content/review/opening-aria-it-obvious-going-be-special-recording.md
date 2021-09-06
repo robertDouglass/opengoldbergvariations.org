@@ -8,5 +8,5 @@ draft: false
 
 One of the wonderful things about the Goldberg Variations is the progression of the work itself, the way in which Bach organized his piece using different compositional techniques from one variation to another, leading invariably to the “canons” that occur every third variation. Bach begins with a canon at the unison, then a canon at the second, and ultimately ends with a canon at the ninth before winding up the piece. The technical challenges for the pianist playing these particular variations are numerous, but you would never know that there was anything difficult about the piece for the way Ms Ishizaka performed the piece: her performance has a sense of ease to it that gives the impression that she could perform like this all day, without having any fatigue.
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-pianko.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
 
