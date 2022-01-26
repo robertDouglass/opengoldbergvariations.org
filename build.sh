@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 HUGOVERSION=0.60.1
 
