@@ -4,7 +4,7 @@ date: 2019-12-09T12:52:52+01:00
 draft: false
 description: "The Open Goldberg Variations is a project led by pianist Kimiko Ishizaka, working with MuseScore.com, to create a public domain recording (MP3 & WAV) and score of J.S. Bach's masterpiece, Die Goldberg Variationen (BWV 988)."
 ---
-The Open Goldberg Variations is a project by pianist [Kimiko Ishizaka](https://kimiko-piano.com), and [MuseScore.com](https://musescore.com/opengoldberg/goldberg-variations), to create a public domain recording and score of J.S. Bach's masterpiece, *Die Goldberg Variationen (BWV 988)*.    
+The Open Goldberg Variations is a project by pianist [Kimiko Ishizaka](https://kimikoishizaka.bandcamp.com), and [MuseScore.com](https://musescore.com/opengoldberg/goldberg-variations), to create a public domain recording and score of J.S. Bach's masterpiece, *Die Goldberg Variationen (BWV 988)*.    
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
  <iframe src="https://www.youtube.com/embed/15ezpwCHtJs?controls=0&loop=1&modestbranding=1&playsinline=1&showinfo=0" 
@@ -15,7 +15,7 @@ The Open Goldberg Variations is a project by pianist [Kimiko Ishizaka](https://k
 
 ## J.S. Bach, Goldberg Variations BWV 988, Free Download
 
-You can [download the Open Goldberg Variations for free](https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano) from Bandcamp. Formats include FLAC, WAV, AIF, and MP3. Downloads are "pay what you choose", and are free of copyright (all uses allowed). The download includes the [Goldberg Variations sheet music (PDF score)](https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano).
+You can [download the Open Goldberg Variations for free](https://kimikoishizaka.bandcamp.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano) from Bandcamp. Formats include FLAC, WAV, AIF, and MP3. Downloads are "pay what you choose", and are free of copyright (all uses allowed). The download includes the [Goldberg Variations sheet music (PDF score)](https://kimikoishizaka.bandcamp.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano).
 
 The Open Goldberg Variations is also available on all major streaming platforms, such as [Spotify and Deezer](/listen/).
 
@@ -41,7 +41,7 @@ The Open Goldberg Variations is also available on all major streaming platforms,
 
 *Christopher Lim in The Business Times, July 20, 2012*
 
-<a href="https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">
+<a href="https://kimikoishizaka.bandcamp.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano">
 <img src="/images/open-goldberg-variations-album-cover-700x70---WebP.webp" alt="The Open Goldberg Variations album cover" loading="lazy"></a>
 
 Contact: kimiko@kimiko-piano.com
