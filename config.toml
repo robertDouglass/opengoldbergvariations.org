@@ -27,7 +27,7 @@ url = "https://opengoldbergvariations.org"
     name = "Free Download"
     weight = -1000
     identifier = "Free Download"
-    url = "https://music.kimiko-piano.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano"
+    url = "https://kimikoishizaka.bandcamp.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano"
 
   [[menu.main]]
     identifier = "Listen"
