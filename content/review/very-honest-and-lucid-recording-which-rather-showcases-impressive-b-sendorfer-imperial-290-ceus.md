@@ -14,5 +14,5 @@ Ishzaka truly brings the Imperial 290 CEUS to life and gives the piano a voice o
 
 Ishzaka, in my opinion has captured every nuance perfectly – she steers clear of kitsch interpretation and pours her and soul into the music. I think one of the most stunning features of her performance, and which all listeners ought to listen for, is the fact that she allows every note to sing to its heart’s desire – not even one trill or arpeggio comes across as being overly-sentimental, too long or too short – just perfectly placed at the right time and place. Her touch is pleasing to the ear and brings out the perfect balance of technical control, period performance albeit on a modern instrument. One can easily hear that she is at ease with her choice of tempi and she adheres to Bach’s specifications perfectly.
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://kimikoishizaka.bandcamp.com/).</em>
 
