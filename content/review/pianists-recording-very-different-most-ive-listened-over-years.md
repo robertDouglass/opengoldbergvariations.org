@@ -14,4 +14,4 @@ draft: false
  
 *Scott Noriega, Issue 36:1 (Sept/Oct 2012), Fanfare Magazine*
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://kimikoishizaka.bandcamp.com/).</em>
