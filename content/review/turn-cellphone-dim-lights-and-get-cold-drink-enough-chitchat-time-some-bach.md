@@ -12,4 +12,4 @@ The music is by Kimiko Ishikaza. Her musical adaption of the GBs was financed vi
 
 I for one think her recording is bloody brilliant. Clear, precise, not too fast, no decorations needed or pianistic tricks required but still unique. Dare I say this will hold up with reference recordings of artists like Gould or Tureck ? Yep, I do ! I am going to commit Blashpemy now and say that if I had to choose between Glenn Gould's recording of the Goldbergs from 1982 and the Open Goldbergs I would probably choose the latter. I like the vibe coming from Mrs Ishikaza's Bach somehow more than Gould bragging about how slow HE could suddenly play Bach.....
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://kimikoishizaka.bandcamp.com/).</em>
