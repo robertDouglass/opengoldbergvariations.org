@@ -10,5 +10,5 @@ draft: false
 
 Looking at the score, one obvious note is the utter absence of dynamics and tempo markings. Which leaves considerable room for interpretation. The range of the 30 variations (plus the base Aria and final Area da Capoe è Fine) allows the pianist to show her range, and Ishizaka provides something to hear. As expected, she does not make the same choices as Gould. And she does not seem to be in as much of a hurry as Gould was. And the recording became a delight as she worked her way through the variation, each with its own feel, even with each repeat.
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://kimikoishizaka.bandcamp.com/).</em>
 
