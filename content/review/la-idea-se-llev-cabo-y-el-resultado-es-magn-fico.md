@@ -12,4 +12,4 @@ Kimiko Ishizaka logró una versión que escapa de la crisis entre las interpreta
 
 Me he topado con una crítica que descalificaba la versión de Ishizaka a través de una comparación con la de Gould. Esa crítica concluía que Ishizaka solamente toca cada tecla en el momento justo. Es cierto. También es cierto que su versión de las Variaciones Goldberg es solamente la mejor, entre las pianísticas, desde Gould. Invito al lector a deleitarse con esta exquisitez.
 
-<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://music.kimiko-piano.com).</em>
+<em>The Open Goldberg Variations are available [for download as MP3 and WAV from Kimiko Ishizaka's music site](https://kimikoishizaka.bandcamp.com/).</em>
