@@ -1,18 +1,27 @@
 #!/bin/sh
 
-HUGOVERSION=0.60.1
+HUGOVERSION=0.123.6
 
-wget https://github.com/gohugoio/hugo/releases/download/v$HUGOVERSION/hugo_${HUGOVERSION}_Linux-64bit.tar.gz
-tar xvzf hugo_${HUGOVERSION}_Linux-64bit.tar.gz
+# Detect OS type
+if [ "$(uname)" = "Darwin" ]; then
+    # macOS
+    wget https://github.com/gohugoio/hugo/releases/download/v${HUGOVERSION}/hugo_${HUGOVERSION}_darwin-universal.tar.gz
+    tar xvzf hugo_${HUGOVERSION}_darwin-universal.tar.gz
+    rm hugo_${HUGOVERSION}_darwin-universal.tar.gz
+else
+    # Linux
+    wget https://github.com/gohugoio/hugo/releases/download/v${HUGOVERSION}/hugo_${HUGOVERSION}_Linux-64bit.tar.gz
+    tar xvzf hugo_${HUGOVERSION}_Linux-64bit.tar.gz
+    rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
+fi
 
-rm hugo_${HUGOVERSION}_Linux-64bit.tar.gz
+# Make hugo executable
+chmod +x hugo
 
 ./hugo
 
-mv custom_404.php public/
 
 cd public
-rm 404.html
 sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml > sitemap2.xml
 rm sitemap.xml
 mv sitemap2.xml sitemap.xml
