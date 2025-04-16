@@ -20,8 +20,6 @@ chmod +x hugo
 
 ./hugo
 
-mv custom_404.php public/
-
 cd public
 sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml > sitemap2.xml
 rm sitemap.xml
