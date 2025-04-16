@@ -32,13 +32,30 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.60.1'
+          extended: true
+
+      - name: Build with Hugo
+        run: hugo --minify
+
+      - name: Post-build processing
+        run: |
+          cd public
+          mv ../custom_404.php .
+          rm 404.html
+          sed 's|<loc>|<loc>https://opengoldbergvariations.org|g' sitemap.xml > sitemap2.xml
+          rm sitemap.xml
+          mv sitemap2.xml sitemap.xml
+          cp sitemap.xml sitemap-google.xml
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: './public'
 
   # Deployment job
   deploy:
