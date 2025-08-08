@@ -1,5 +1,34 @@
 {{ define "main" }}
 
+{{ partial "hero" . }}
+
+<section class="features" aria-label="Project Features">
+  <div class="card">
+    <img src="/images/open-goldberg-variations-album-cover-700x700.jpg" alt="Open Goldberg Variations album cover">
+    <h3>Free Download</h3>
+    <p>Download the complete album in FLAC, WAV, AIF, or MP3 — plus the engraved score (PDF) — all free and public domain.</p>
+    <a class="btn primary" href="https://kimikoishizaka.bandcamp.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano" target="_blank" rel="noopener">Download</a>
+  </div>
+  <div class="card">
+    <img src="/images/P1030966-1600x900.webp" alt="Kimiko Ishizaka at the piano, recording session">
+    <h3>Listen</h3>
+    <p>Enjoy the Open Goldberg Variations on all major streaming platforms and discover fresh interpretations.</p>
+    <a class="btn primary" href="/listen/">Listen</a>
+  </div>
+  <div class="card">
+    <img src="/images/boesendorfer_290.jpg" alt="Bösendorfer 290 Imperial grand piano">
+    <h3>The Instrument</h3>
+    <p>The legendary Bösendorfer 290 Imperial CEUS — concert grand, sponsor, and technological marvel behind the sessions.</p>
+    <a class="btn secondary" href="/discover/">Learn More</a>
+  </div>
+  <div class="card">
+    <img src="/images/ogv-braille-photo-1600x.webp" alt="Open Goldberg Variations project team and materials">
+    <h3>The Project Story</h3>
+    <p>How a global team set Bach’s masterpiece free — with public domain recordings and scores, for everyone, forever.</p>
+    <a class="btn secondary" href="/discover/">Project Story</a>
+  </div>
+</section>
+
 <section id="home">
   {{ .Content }}
 </section>
