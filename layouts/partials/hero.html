@@ -1,0 +1,14 @@
+{{ $hero := .Site.Params.hero }}
+<section class="hero" aria-label="Site hero">
+  <div class="hero-bg" style="background-image:url('{{ $hero.image | default "/images/boesendorfer_290.jpg" }}')"></div>
+  <div class="hero-overlay"></div>
+  <div class="container hero-content">
+    <h1>{{ $hero.title | default .Site.Title }}</h1>
+    <p class="subtitle">{{ $hero.subtitle | default .Site.Params.tagline }}</p>
+    <div class="cta">
+      <a class="btn primary" href="{{ $hero.ctaPrimaryUrl | default "/download/" }}">{{ $hero.ctaPrimaryText | default "Free Download" }}</a>
+      <a class="btn secondary" href="{{ $hero.ctaSecondaryUrl | default "/listen/" }}">{{ $hero.ctaSecondaryText | default "Listen" }}</a>
+    </div>
+    {{ with $hero.caption }}<p class="caption">{{ . }}</p>{{ end }}
+  </div>
+</section>

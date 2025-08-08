@@ -17,6 +17,17 @@ url = "https://opengoldbergvariations.org"
     tagline = "Bach's Goldberg Variations, played by Kimiko Ishizaka"
     description = "The Open Goldberg Variations (Johann Sebastian Bach, BWV 988), played by Kimiko Ishizaka, are free to download and share. They are governed by the Creative Commons Zero license, which means that they are a part of the public domain, and every use of them is allowed."
     images = ["https://opengoldbergvariations.org/images/open-goldberg-variations.png"] #This is used for opengraph/twitter cards.
+    customCSS = ["/css/site.css"]
+
+    [params.hero]
+      title = "Open Goldberg Variations"
+      subtitle = "Bach's Goldberg Variations set free in the public domain: a new recording by Kimiko Ishizaka and an open score."
+      image = "/images/boesendorfer_290.jpg"
+      caption = "Bösendorfer 290 Imperial"
+      ctaPrimaryText = "Free Download"
+      ctaPrimaryUrl = "https://kimikoishizaka.bandcamp.com/album/j-s-bach-open-goldberg-variations-bwv-988-piano"
+      ctaSecondaryText = "Listen"
+      ctaSecondaryUrl = "/listen/"
 
 [markup.goldmark.renderer]
     unsafe= true
@@ -58,6 +69,12 @@ url = "https://opengoldbergvariations.org"
 #    identifier = "Contact"
 #    url = "/contact"
 #    weight = -90
+
+  [[menu.main]]
+    name = "Executive Producer"
+    identifier = "Executive Producer"
+    url = "/executive-producer/robert-douglass/"
+    weight = -80
 
   [[menu.main]]
     name = "Home"
